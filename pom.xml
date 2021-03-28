@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>prasadreddy</id>
-			<url>http://localhost:8081/nexus/content/repositories/prasadreddy/</url>
+			<id>prasad</id>
+			<url>http://3.21.19.54:8081/repository/prasad/</url>
 		</repository>
 		<snapshotRepository>
 			<id>durga</id>
-			<url>http://localhost:8081/nexus/content/repositories/durga/</url>
+			<url>http://3.21.19.54:8081/repository/durga/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
